@@ -19,7 +19,7 @@ group :jekyll_plugins do
 end
 
 gem 'jekyll-admin', group: :jekyll_plugins
-gem 'jekyll-archives', group: :jekyll_plugins
+gem 'jekyll-archives'
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
